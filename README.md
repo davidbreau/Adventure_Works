@@ -4,6 +4,15 @@ Avant-Propos :
 
 Dans le cadre d'un exercice sur les requêtes SQL, le projet necessite la restauration de deux bases de données via leurs versions .bak, situés ici dans le dossier data. Une fois chose faite, et la base de donnée connectée, se trouvent dans le fichier script "50requetes.sql" à appliquer à la base de donnée "AdventureWorks2019"
 
+# Obtenir les fichiers .bak à restaurer :
+
+Telechargez ces deux fichiers :
+[AdventureWorks2019.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak)
+[AdventureWorksDW2019.bak](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak)
+
+Et copiez-les dans le dossier data
+
+
 # Procédure de restauration des bases de données SQL Server dans Docker
 
 Ce guide explique comment lancer un conteneur Docker SQL Server, y restaurer des fichiers .bak et exécuter des scripts SQL pour la restauration des bases de données.
