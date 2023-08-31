@@ -1,5 +1,7 @@
 # Adventure_Works
 
+![](https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif)
+
 Avant-Propos :
 
 Dans le cadre d'un exercice sur les requêtes SQL, le projet necessite la restauration de deux bases de données via leurs versions .bak, situés ici dans le dossier data. Une fois chose faite, et la base de donnée connectée, se trouvent dans le fichier script "50requetes.sql" à appliquer à la base de donnée "AdventureWorks2019"
