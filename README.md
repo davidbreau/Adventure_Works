@@ -1,6 +1,6 @@
 # Adventure_Works
 
-<img src="[lien_vers_le_gif.gif](https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif)" width="300" height="200">
+<img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="300">
 
 Avant-Propos :
 
